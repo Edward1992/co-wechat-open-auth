@@ -27,7 +27,8 @@
     "muk": "*",
     "nyc": "^10.3.0",
     "rewire": "*",
-    "supertest": "*"
+    "supertest": "*",
+    "xml2js": "^0.4.17"
   },
   "author": "Jackson Tian",
   "license": "MIT",
