@@ -15,7 +15,8 @@
     "wechat"
   ],
   "dependencies": {
-    "httpx": "^2.1.1"
+    "httpx": "^2.1.1",
+    "xml2js": "^0.4.17"
   },
   "devDependencies": {
     "coveralls": "*",
@@ -27,8 +28,7 @@
     "muk": "*",
     "nyc": "^10.3.0",
     "rewire": "*",
-    "supertest": "*",
-    "xml2js": "^0.4.17"
+    "supertest": "*"
   },
   "author": "Jackson Tian",
   "license": "MIT",
